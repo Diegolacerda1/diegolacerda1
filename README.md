@@ -1,17 +1,19 @@
 
-<h1 align="left">Hi 👋, I'm I am Diego de Castro, I have been working as Quality Assurance Engineer for the past 4 years, and I have expertise in both manual and automation techniques, experience in different testing methodologies such as Black Box, Gray Box, Smoke Testing, Regression testing, GUI testing.</h1>
+<h1 align="left">Hi 👋, I am Diego de Castro </h1>
+  <h2>I have been working as Quality Assurance Engineer for the past 4 years, and I have expertise in both manual and automation techniques, experience in different testing methodologies such as Black Box, Gray Box, Smoke Testing, Regression testing, GUI testing.</h2>
 
 
 <h3 align="left">This is my Portfolio where you can find some personal projects I worked on to showcase my skills as a QA Automation Engineer. The tool I chose to show my abilities was Cypress.</h3>
 
 <img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
 - 🌱 I’m currently learning **Angular Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Diegolacerda1](https://github.com/Diegolacerda1)
 
 - 📫 How to reach me **diegocslacerda@gmail.com**
 
-- ⚡ Fun facts **(if you are interested):
+- Fun facts **(if you are interested):
   - I hold a Master Degree in Sports Science that I earned from one of my most respected Universities in Russia (and I am Brazilian, and YES, I speak Russian, English, Portuguese).
     - I decided to change careers in 2020 after Covid-19 hit to be able to work remotely, build my family and raise my kids.
       - I learned how to Code within 3 months and was able to build my first Testing Automation Framework with Cypress.
